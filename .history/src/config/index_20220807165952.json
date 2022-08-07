@@ -1,0 +1,134 @@
+{
+  "company": {
+    "name": "Contexto",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Contexto",
+      "href": "product"
+    },
+    {
+      "name": "Entes",
+      "href": "features"
+    },
+
+    {
+      "name": "Necesidad",
+      "href": "necesidad"
+    },
+    {
+      "name": "Problema",
+      "href": "problema"
+    },
+    {
+      "name": "Bibliografía",
+      "href": "bibliografia"
+    },
+    {
+      "name": "Sobre Nosotros",
+      "href": "about"
+    }
+  ],
+  "mainHero": {
+    "title": "¿Cómo influye la Inteligencia Artificial",
+    "subtitle": "a la ciberseguridad en las empresas Colombianas?",
+    "description": "Las nuevas amenazas basadas en herramientas de inteligencia artificial obligan a elevar también el nivel de las tecnologías necesarias para defender a las empresas. Siete de cada diez compañías están ya usando algún tipo de IA para la protección de sus activos. Las soluciones se dirigen hacia cuatro grandes necesidades (gestión masiva de información, respuesta en tiempo real, automatización y predicción), y se emplean en áreas como gestión de incidencias y respuesta, gestión de intrusiones, protección anti-malware, gestión del fraude, ciberinteligencia o prevención de correo malicioso, entre otra",
+    "img": "/assets/images/FondoPrincipal.png"
+  },
+  "product": {
+    "title": "Contexto",
+    "items": [
+      {
+        "title": "¿Qué es la ciberseguridad?",
+        "description": "La ciberseguridad o seguridad informática es una práctica que busca defender las computadoras, los servidores, los dispositivos móviles, las redes, y en general los sistemas electrónicos y los datos de ataques maliciosos. El término se aplica en diferentes contextos, desde los negocios hasta la informática móvil.",
+        "img": "/assets/images/Desc_Cibersecurity.png"
+      },
+      {
+        "title": "¿Qué es la Inteligencia artificial?",
+        "description": "Se puede definir citando a Juan Romero, Carlos Dafonte, Angel Gómez y Fernando Penousal en su libro Inteligencia Artificial y Computación Avanzada: \"un sistema artificial posee inteligencia cuando es capaz de llevar a cabo tareas que, si fuesen realizadas por un humano, se diría de este que es inteligente. Dentro de las ciencias de la computación, la rama de la I.A. se basa en intentar dotar al funcionamiento de las aplicaciones informáticas de un comportamiento inteligente similar al humano para la toma de decisiones.\"",
+        "img": "/assets/images/IA.svg"
+      }
+    ]
+  },
+  "features": {
+    "title": "",
+    "subtitle": "Entes",
+    "description": "En nuestro contexto, los principales sujetos de investigación serian los siguientes",
+    "items": [
+      {
+        "name": "Empresas",
+        "description": "Agente que organiza con eficiencia los factores económicos para producir bienes y servicios para el mercado con el ánimo de alcanzar ciertos objetivos.",
+        "icon": "/assets/images/edificio.png"
+      },
+      {
+        "name": "Gobierno",
+        "description": "Es el principal pilar del Estado; la autoridad que dirige, controla y administra sus instituciones, la cual consiste en la conducción política general o ejercicio del poder ejecutivo del Estado.",
+        "icon": "/assets/images/gobernancia.png"
+      },
+      {
+        "name": "Ciberdelincuentes o Hacker de sombrero negro",
+        "description": "Individuo que vulnera los sistemas informáticos y se encarga de cometer los delitos informáticos con sus conocimientos.",
+        "icon": "/assets/images/hackear.png"
+      },
+      {
+        "name": "Ethical Hackers o Hacker de sombrero blanco",
+        "description": "Persona que utiliza las herramientas informáticas para encontrar vulnerabilidades de los sistemas y tomar las medidas necesarias para contrarrestar los posibles ataques que puedan ocurrir.",
+        "icon": "/assets/images/hacker.png"
+      }
+    ]
+  },
+  "Necesidad": {
+    "title": "",
+    "subtitle": "Necesidades",
+    "description": "",
+    "items": [
+      {
+        "name": "Empresas y Gobierno",
+        "description": "Conservar la integridad de sus datos."
+      },
+      {
+        "name": "Ciberdelincuentes o Hacker de sombrero negro",
+        "description": "Obtener un beneficio economico o personal."
+      },
+      {
+        "name": "Ethical Hackers o Hacker de sombrero blanco",
+        "description": "Identificar y alertar las fallas de un sistema."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Responsables",
+    "items": [
+      {
+        "name": "Carlos Quiros",
+        "price": "Nivel 9",
+        "priceDetails": "",
+        "features": ["carlos.quiros@udea.edu.co"]
+      },
+      {
+        "name": "Marcelo De la Hoz",
+        "price": "Nivel 7",
+        "priceDetails": "",
+
+        "features": ["marcelo.delahozs@udea.edu.co"]
+      },
+      {
+        "name": "Sebastián Suárez",
+        "price": "Nivel 7",
+        "priceDetails": "",
+        "features": ["sebastian.suarezr@udea.edu.co"]
+      },
+      {
+        "name": "Ricardo Osorio",
+        "price": "Nivel 7",
+        "priceDetails": "",
+        "features": ["ricardo.osorioc@udea.edu.co"]
+      }
+    ]
+  },
+  "metrics": [
+    { "url": "/assets/images/Metrics.png" },
+    { "url": "/assets/images/Grafica.png" }
+  ]
+}
