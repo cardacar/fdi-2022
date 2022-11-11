@@ -12,6 +12,8 @@ import Product from "../components/Product";
 import Necesidad from "../components/Necesidad";
 import Problema from "../components/Problema";
 import Bibliografia from "../components/Bibliografia";
+import Resumen from "../components/Resumen";
+import Abstract from "../components/Abstract";
 
 const App = () => {
   return (
@@ -28,6 +30,11 @@ const App = () => {
         <MainHeroImage />
       </div>
       <Canvas />
+      <LazyShow>
+        <Resumen/>
+        <Abstract/>
+      </LazyShow>
+      <Canvas/>
       <LazyShow>
         <>
           <Product />
@@ -50,18 +57,17 @@ const App = () => {
           <Problema />
         </>
       </LazyShow>
-
-      <LazyShow>
-        <>
-          <Bibliografia />
-        </>
-      </LazyShow>
-      
       <LazyShow>
         <>
           <Canvas />
 
           <Pricing />
+        </>
+      </LazyShow>
+      <LazyShow>
+        <>
+          <Canvas/>
+          <Bibliografia />
         </>
       </LazyShow>
       <LazyShow>
