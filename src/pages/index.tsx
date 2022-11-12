@@ -11,7 +11,6 @@ import Pricing from "../components/Pricing";
 import Product from "../components/Product";
 import Necesidad from "../components/Necesidad";
 import Problema from "../components/Problema";
-import Bibliografia from "../components/Bibliografia";
 import Bibliografia2 from '../components/Bibliografia2';
 import Resumen from "../components/Resumen";
 import Abstract from "../components/Abstract";
@@ -35,8 +34,8 @@ const App = () => {
       </div>
       <Canvas />
       <LazyShow>
-        <Resumen/>
-        <Abstract/>
+        <><Resumen/>
+        <Abstract/></>
       </LazyShow>
       <Canvas/>
       <LazyShow>

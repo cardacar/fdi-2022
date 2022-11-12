@@ -1,8 +1,5 @@
 import React from 'react';
-import Instrumentos from './Instrumentos';
 import Keywords from './Keywords';
-import Procedimiento from './Procedimiento';
-import Tecnicas from './Tecnicas';
 
 const Abstract = () => {
 	return (

@@ -1,8 +1,6 @@
 import React from 'react';
-import Instrumentos from './Instrumentos';
 import PalabrasClave from './PalabrasClave';
-import Procedimiento from './Procedimiento';
-import Tecnicas from './Tecnicas';
+
 
 const Resumen = () => {
 	return (
