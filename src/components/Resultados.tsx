@@ -179,7 +179,7 @@ const Resultados = () => {
 							realizada a través de Internet, entre los meses de marzo y mayo de
 							2022, que contó con la participación de 206 encuestados.
 						</p>
-						<img src='/assets/images/encuesta.png' />
+						<img src='/assets/images/encuesta.png' className='w-[80%]' />
 						<p className='text-gray-600 mb-8 text-justify flex-grow'>
 							Pero al involucrar técnicas de inteligencia artificial tales como
 							el aprendizaje automático se puede optimizar ostensiblemente este
@@ -200,7 +200,7 @@ const Resultados = () => {
 							también están considerados. Distribución de las herramientas de
 							seguridad usadas en los sectores de industria.
 						</p>
-						<img src='/assets/images/cifras.png' />
+						<img src='/assets/images/cifras.png' className='w-[80%] ' />
 						<p className='text-gray-600 mb-8 text-justify flex-grow'>
 							Adicional se hace énfasis en que se debe tener en cuenta que se
 							considera que el atacante siempre ha tenido la ventaja teniendo en

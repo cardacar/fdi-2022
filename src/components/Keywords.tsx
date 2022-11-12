@@ -10,7 +10,7 @@ const Keywords = () => {
 					</div>
 					<div className={`align-middle flex items-center gap-20`}>
 						<div className='flex-grow-0 flex-shrink-0 w-36'>
-							<img src='/assets/images/palabra.png' />
+							<img src='/assets/images/key.png' />
 						</div>
 						<p className={`text-gray-600 mb-8 text-justify flex-grow`}>
             Machine Learning, Cybersecurity, Ethical Hacker, Artificial Intelligence,
