@@ -29,13 +29,13 @@ const Analisis = () => {
 							funcionamiento de los métodos que utilizan inteligencia artificial
 							tales como: “aprendizaje automático, redes neuronales, aprendizaje
 							profundo, algoritmos genéticos, etc” por medio de los cuales se
-							puede imitar comportamientos similares a los de un ser humano.
+							puede imitar comportamientos similares a los de un ser humano. <br/><br/>
 							Pero, basado en los estudios referenciados se puede deducir que a
 							diferencia de la búsqueda de una inteligencia global en donde se
 							busca crear a un ser independiente, se están buscando potenciar
 							características propias de los seres humanos relacionándose con el
 							entorno y tomando decisiones para poder interactuar reaccionando
-							según el entrenamiento que haya recibido el sistema. Esto nos
+							según el entrenamiento que haya recibido el sistema.<br/><br/> Esto nos
 							lleva a que en un escenario cercano no presente la posibilidad de
 							que se reemplace al ser humano en su totalidad y que solo se
 							potencialice las labores para las cuales los sistemas han sido
@@ -62,12 +62,12 @@ const Analisis = () => {
 							acciones más efectivas en la contención basado en grandes
 							capacidades de procesamiento de datos que evalúan gran cantidad de
 							información comportándose como una red neuronal con inteligencia
-							distribuida. Otro punto a tener en cuenta es el aprendizaje que se
+							distribuida.<br/><br/> Otro punto a tener en cuenta es el aprendizaje que se
 							puede tener por medio de técnicas de aprendizaje automático en
 							combinación con análisis estadístico para poder predecir ataques,
 							descifrar patrones y predecir el comportamiento incluso para
 							detectar la fuente del ataque para evitar próximos ataques e
-							incluso el atacante en sí. Para finalizar en el caso de
+							incluso el atacante en sí.<br/><br/> Para finalizar en el caso de
 							ciberseguridad en Colombia es importante tener en cuenta que
 							mecanismos son utilizados para poder brindar seguridad a los
 							activos de información de una empresa. Siendo un punto de
