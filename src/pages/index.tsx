@@ -12,8 +12,12 @@ import Product from "../components/Product";
 import Necesidad from "../components/Necesidad";
 import Problema from "../components/Problema";
 import Bibliografia from "../components/Bibliografia";
+import Bibliografia2 from '../components/Bibliografia2';
 import Resumen from "../components/Resumen";
 import Abstract from "../components/Abstract";
+import Metodologia from '../components/Metodologia';
+import Resultados from '../components/Resultados';
+import Analisis from '../components/Analisis';
 
 const App = () => {
   return (
@@ -58,16 +62,32 @@ const App = () => {
         </>
       </LazyShow>
       <LazyShow>
+				<>
+					<Metodologia />
+				</>
+			</LazyShow>
+			<Canvas />
+			<LazyShow>
+				<>
+					<Resultados />
+				</>
+			</LazyShow>
+			<Canvas />
+			<LazyShow>
+				<>
+					<Analisis />
+				</>
+			</LazyShow>
+      <LazyShow>
         <>
           <Canvas />
-
           <Pricing />
         </>
       </LazyShow>
       <LazyShow>
         <>
           <Canvas/>
-          <Bibliografia />
+          <Bibliografia2 />
         </>
       </LazyShow>
       <LazyShow>
