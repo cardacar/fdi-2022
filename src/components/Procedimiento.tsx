@@ -16,7 +16,7 @@ const Procedimiento = () => {
 							artificial como contextualización del alcance de la inteligencia
 							artificial, estos y los conceptos tanto de técnicas defensivas
 							como ofensivas en seguridad informática con la que se apoya el
-							marco conceptual y teórico de la monografía.. Posteriormente se
+							marco conceptual y teórico de la monografía. Posteriormente se
 							realiza una recopilación de información y se presentan proyectos
 							en los que se ha implementado la inteligencia artificial en
 							ciberseguridad tanto para el desarrollo de técnicas ofensivas,
@@ -26,7 +26,7 @@ const Procedimiento = () => {
 							investigaciones desarrolladas en el sector y su panorama actual.
 							Cómo cierre, daremos las conclusiones obtenidas de la
 							investigación y con ellas, la posible respuesta a la pregunta que
-							motivó a la realización de este proyecto
+							motivó a la realización de este proyecto.
 						</p>{' '}
 					</div>
 				</div>{' '}

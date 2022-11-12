@@ -23,7 +23,7 @@ export default function Tecnicas() {
 							inteligencia artificial que ya se encuentra en uso a nivel
 							empresarial la cual nos ayuda a obtener un panorama más amplio de
 							la información que se puede obtener cuando se hace uso de dichas
-							herramientas
+							herramientas.
 						</p>
 					</div>
 					<div>
@@ -45,7 +45,7 @@ export default function Tecnicas() {
 						<p className={`text-gray-600 mb-8 text-justify max-w-xs`}>
 							Tomamos los datos de encuestas realizadas en el panorama nacional
 							en la actualidad (2022) con respecto a la ciberseguridad y la
-							influencia de las inteligencias artificiales en la misma
+							influencia de las inteligencias artificiales en la misma.
 						</p>
 					</div>
 				</div>
